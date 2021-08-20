@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import girl from "../images/girl.jpg";
 import boy from "../images/boy.jpg";
 import { useHistory } from "react-router";
